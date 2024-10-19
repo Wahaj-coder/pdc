@@ -12,3 +12,4 @@ cat = Animal("Whiskers", "Cat")
 
 print(dog.speak())
 print(cat.speak())
+print(cat.speak())
